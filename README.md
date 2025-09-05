@@ -1,6 +1,6 @@
 # Site do Vereador Adrilles Jorge
 
-Site oficial do Vereador Adrilles Jorge, desenvolvido com Next.js 15 e integração com Baserow.
+Site para Vereador Adrilles Jorge, desenvolvido com Next.js 15 e integração com Baserow.
 
 ## Funcionalidades
 
